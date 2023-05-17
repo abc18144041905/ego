@@ -1,0 +1,34 @@
+export default {
+    menu:{
+        sys:'后台管理系统',
+        home:'首页',
+        cman:'商品管理',
+        spar:'规格参数',
+        acla:'广告分类',
+        oman:'订单管理',
+        olis:'订单列表',
+        rman:'退货管理',
+        mult:'多语言',
+        welc:'欢迎',
+        lout:'退出登录',
+        spec:'规格与包装',
+        user:'打印合同'
+     },
+     goods:{
+        plen:'请输入内容...',
+        quer:'查询',
+        addt:'添加',
+        coid:'商品ID',
+        trn:'商品名称',
+        cpri:'商品价格',
+        gnum:'商品数量',
+        spec:'规格类目',
+        imag:'商品图片',
+        spoi:'商品卖点',
+        desc:'商品描述',
+        oper:'操作',
+        edit:'编辑',
+        dele:'删除',
+        deal:'删除选中'
+    },
+}
